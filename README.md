@@ -12,6 +12,7 @@
 <p align="left"> 
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" /> 
   
@@ -27,3 +28,6 @@
 - **Akıllı Sera Sistemi:** IoT tabanlı, uzaktan izlenebilir bitki bakım sistemi.
 - **Akıllı LED Otomasyonu:** Wi-Fi ve Bluetooth kontrollü, enerji analizi yapan aydınlatma.
 - **SCARA Robot Kolu:** Endüstriyel robotik kol tasarımı ve simülasyonu.
+
+
+
