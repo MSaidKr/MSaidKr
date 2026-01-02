@@ -1,4 +1,6 @@
-# Merhaba, ben Said! 👋
+# Said! (\_/)
+       ( •_•)
+       / >S<
 
 🎓 **Robotik ve Yapay Zeka** 
 💻 **C#** ve **.NET**
