@@ -1,6 +1,6 @@
 # Said! 
         (\_/)
-       ( •_•)
+       ( •¬•)
        / >S<
 
 🎓 **Robotik ve Yapay Zeka** 
