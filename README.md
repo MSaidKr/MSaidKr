@@ -3,9 +3,9 @@
        ( •¬•)
        / >S<
 
- **Robotik ve Yapay Zeka** 
- **C#** ve **.NET**
- **IoT**, **Gömülü Sistemler** ve **Robotik Kollar**
+ **Robotik ve Yapay Zeka,** 
+ **C#** ve **.NET,**
+ **IoT**, **Gömülü Sistemler,** **Robotik Kollar,**
  **3D Tasarım ve Baskı** 
 
 ---
