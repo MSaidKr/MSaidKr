@@ -10,7 +10,7 @@
 
 ---
 
-### 🛠️ Yeteneklerim ve Kullandığım Araçlar
+### Yeteneklerim ve Kullandığım Araçlar
 
 <p align="left"> 
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -27,10 +27,10 @@
 
 ---
 
-### 🔭 Şu an üzerinde çalıştığım projeler:
+### Şu an üzerinde çalıştığım projeler:
 - **Akıllı Sera Sistemi:** IoT tabanlı, uzaktan izlenebilir bitki bakım sistemi.
 - **Akıllı LED Otomasyonu:** Wi-Fi ve Bluetooth kontrollü, enerji analizi yapan aydınlatma.
 - **SCARA Robot Kolu:** Endüstriyel robotik kol tasarımı ve simülasyonu.
-
+- **Hareketli Kitap** Eğitsel etkileşimli kitap.
 
 
