@@ -6,7 +6,7 @@
  **Robotik ve Yapay Zeka,** 
  **C#** ve **.NET,**
  **IoT**, **Gömülü Sistemler,** **Robotik Kollar,**
- **3D Tasarım ve Baskı** 
+ **3D Tasarım ve Baskı.** 
 
 ---
 
