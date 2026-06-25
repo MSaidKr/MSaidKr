@@ -31,6 +31,6 @@
 - **Akıllı Sera Sistemi:** IoT tabanlı, uzaktan izlenebilir bitki bakım sistemi.
 - **Akıllı LED Otomasyonu:** Wi-Fi ve Bluetooth kontrollü, enerji analizi yapan aydınlatma.
 - **SCARA Robot Kolu:** Endüstriyel robotik kol tasarımı ve simülasyonu.
-- **Hareketli Kitap** Eğitsel etkileşimli kitap.
+- **Hareketli Kitap:** Eğitsel etkileşimli kitap.
 
 
